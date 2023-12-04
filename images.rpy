@@ -1,4 +1,5 @@
 image gift_card_50 = "items/images/gift_card_50.webp"
+image emerald_bracelet = "items/images/emerald_bracelet.webp"
 image ruby_choker_necklace = "items/images/ruby_choker_necklace.webp"
 image brown_horse_golden_mane = "items/images/brown_horse_golden_mane.webp"
 image white_horse_black_mane = "items/images/white_horse_black_mane.webp"
