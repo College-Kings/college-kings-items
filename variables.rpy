@@ -42,4 +42,3 @@ define ruby_choker_necklace = Item("Ruby Choker Necklace", idle_image="ruby_chok
 define brown_horse_golden_mane = Item("Brown Horse, Golden Mane", idle_image="brown_horse_golden_mane")
 define white_horse_black_mane = Item("White Horse, Black Mane", idle_image="white_horse_black_mane")
 define sunscreen = Item("Sunscreen")
-
