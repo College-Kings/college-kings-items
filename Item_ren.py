@@ -13,3 +13,6 @@ class Item:
     idle_image: Optional[str] = None
     hover_image: Optional[str] = None
     insensitive_image: Optional[str] = None
+
+    def __hash__(self) -> int:
+        return hash(self.name)
